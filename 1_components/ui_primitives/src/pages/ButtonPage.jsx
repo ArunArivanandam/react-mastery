@@ -1,6 +1,6 @@
-import Button from "./Button";
+import Button from "../components/Button";
 
-function App() {
+function ButtonPage() {
   return (
     <div className="p-4 m-5">
       {/* <Button text="Save" onClick={() => console.log("...Saving")} />
@@ -26,4 +26,4 @@ function App() {
   );
 }
 
-export default App;
+export default ButtonPage;
