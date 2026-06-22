@@ -1,7 +1,8 @@
-import Buttonpage from "./pages/ButtonPage";
+// import Buttonpage from "./pages/ButtonPage";
+import InputPage from "./pages/InputPage";
 
 function App() {
-  return <Buttonpage />;
+  return <InputPage />;
 }
 
 export default App;
